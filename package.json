@@ -1,5 +1,4 @@
 {
-	"homepage": "http://D-souz.github.io/node-packages",
 	"name": "fcc-learn-npm-package-json",
 	"author": "Dsouza",
 	"dependencies": {
@@ -7,9 +6,7 @@
 	},
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js",
-		"predeploy": "npm run build",
-		"deploy": "gh-pages -d build"
+		"start": "node server.js"
 	},
 	"repository": {
 		"type": "git",
